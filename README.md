@@ -1,6 +1,6 @@
 # Study Resources for Probability and Statistics
 
-This repository contains PowerPoint presentations for **Statistics II** covering Weeks 5-12. God tier notes for Week 1-4 are available on [Acegrade](https://acegrade.in/notes)
+This repository contains ppt's (made more readable) for **Statistics II** covering Weeks 5-12. God tier notes for Week 1-4 are available on [Acegrade](https://acegrade.in/notes)
 
 ## How to Use These Notes
 
