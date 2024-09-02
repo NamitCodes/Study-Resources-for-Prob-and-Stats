@@ -14,4 +14,4 @@ This repository contains ppt's (made more readable) for **Statistics II** coveri
 
 ---
 
-Meaningful contrinutions are appreciated. 
+Meaningful contributions are appreciated. 
